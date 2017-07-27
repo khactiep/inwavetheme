@@ -41,10 +41,10 @@ get_template_part('blocks/headerbackground/header', 'small');
                     endif;?>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6">
-                    <div class="sidebar_left" style="margin-top: 35px">
+                    <div class="sidebar_right">
                         <?php
-                        if ( is_active_sidebar('left_sidebar') ) {
-                            dynamic_sidebar( 'left_sidebar' );
+                        if ( is_active_sidebar('right_sidebar') ) {
+                            dynamic_sidebar( 'right_sidebar' );
                         }
                         ?>
                     </div>
