@@ -1,0 +1,141 @@
+# Translation of Themes - SportsMag in English (UK)
+# This file is distributed under the same license as the Themes - SportsMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 03:12:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - SportsMag\n"
+
+#. Description of the plugin/theme
+msgid "SportsMag is a child theme of AccessPress Mag. Which is ideal for sports magazine, newspaper, online magazine, blog or personal website. It is a cutting-edge, FREE WordPress theme and is fully-responsive. Extra features are Popular Article and Youtube videos list section. Demo: http://demo.accesspressthemes.com/sportsmag/ Support forum: https://accesspressthemes.com/support/"
+msgstr "SportsMag is a child theme of AccessPress Mag. Which is ideal for sports magazine, newspaper, online magazine, blog or personal websites. It is a cutting-edge, FREE WordPress theme and is fully responsive. Extra features are Popular Article and YouTube videos list section. Demo: http://demo.accesspressthemes.com/sportsmag/ Support forum: https://accesspressthemes.com/support/"
+
+#. Theme Name of the plugin/theme
+msgid "SportsMag"
+msgstr "SportsMag"
+
+#: functions.php:375
+msgid "View Features"
+msgstr "View Features"
+
+#: functions.php:371
+msgid "Any question!! Click <a href=\"%s\" target=\"_blank\"> here!! </a> for live chat"
+msgstr "Any questions? Click <a href=\"%s\" target=\"_blank\"> here </a> for live chat."
+
+#: functions.php:56
+msgid "Latest Articles Title"
+msgstr "Latest Articles Title"
+
+#: functions.php:47 functions.php:60
+msgid "Latest Articles"
+msgstr "Latest Articles"
+
+#: home-page.php:72 home-page.php:138 home-page.php:213 home-page.php:280
+#: home-page.php:344
+msgid "No image"
+msgstr "No Image"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#: home-page.php:32
+msgid "Popular text"
+msgstr "Popular text"
+
+#: header.php:61
+msgid "Top Menu Right"
+msgstr "Top Menu Right"
+
+#: header.php:55
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:340
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:330
+msgctxt "post date"
+msgid "- %s"
+msgstr "- %s"
+
+#: functions.php:219
+msgid "Youtube Videos"
+msgstr "YouTube Videos"
+
+#: functions.php:80
+msgid "Add youtube id's separated by comma (ex: xrt27dZ7DOA, u8--jALkijM, HusniLw9i68):"
+msgstr "Add YouTube ids separated by comma (eg: xrt27dZ7DOA, u8--jALkijM, HusniLw9i68):"
+
+#: functions.php:79
+msgid "Youtube Video Ids"
+msgstr "YouTube Video Ids"
+
+#: functions.php:73
+msgid "Add your title for youtube list section"
+msgstr "Add your title for YouTube list section"
+
+#: functions.php:72
+msgid "Youtube Lists Title"
+msgstr "YouTube Lists Title"
+
+#: functions.php:64
+msgid "Show or hide youtube playlist section"
+msgstr "Show or hide YouTube playlist section"
+
+#: functions.php:63
+msgid "Youtube Lists"
+msgstr "YouTube Lists"
+
+#: functions.php:57
+msgid "Add block name as you like (example: Latest Articles)"
+msgstr "Add block name as you like (example: Latest Articles)"
+
+#: functions.php:51 functions.php:67
+msgid "Hide"
+msgstr "Hide"
+
+#: functions.php:50 functions.php:66
+msgid "Show"
+msgstr "Show"
+
+#: functions.php:48
+msgid "Show or hide latest ariticle section"
+msgstr "Show or hide latest article section"
+
+#: functions.php:42
+msgid "Home Page Settings"
+msgstr "Home Page Settings"
+
+#: functions.php:38
+msgid "Child Theme Settings"
+msgstr "Child Theme Settings"
+
+#. translators: %s: Name of current post
+#: content-archive-default.php:48 content-archive-style1.php:49
+#: content-single-style1.php:49 content-single.php:47
+msgid "Pages:"
+msgstr "Pages:"
+
+#. Theme URI of the plugin/theme
+msgid "https://accesspressthemes.com/wordpress-themes/sportsmag"
+msgstr "https://accesspressthemes.com/wordpress-themes/sportsmag"
+
+#. Author URI of the plugin/theme
+msgid "http://accesspressthemes.com/"
+msgstr "http://accesspressthemes.com/"
+
+#. Author of the plugin/theme
+msgid "AccessPress Themes"
+msgstr "AccessPress Themes"

@@ -1,0 +1,112 @@
+# Translation of Development (trunk) in English (UK)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-14 11:10:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: wp-instagram-widget.php:135
+msgid "Title"
+msgstr "Title"
+
+#: wp-instagram-widget.php:140
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: wp-instagram-widget.php:136
+msgid "Username"
+msgstr "Username"
+
+#: wp-instagram-widget.php:137
+msgid "Number of photos"
+msgstr "Number of photos"
+
+#: wp-instagram-widget.php:141
+msgid "Small"
+msgstr "Small"
+
+#: wp-instagram-widget.php:143
+msgid "Original"
+msgstr "Original"
+
+#: wp-instagram-widget.php:146
+msgid "Open links in"
+msgstr "Open links in"
+
+#: wp-instagram-widget.php:149
+msgid "New window (_blank)"
+msgstr "New window (_blank)"
+
+#: wp-instagram-widget.php:179
+msgid "Unable to communicate with Instagram."
+msgstr "Unable to communicate with Instagram."
+
+#: wp-instagram-widget.php:138
+msgid "Photo size"
+msgstr "Photo size"
+
+#: wp-instagram-widget.php:182
+msgid "Instagram did not return a 200."
+msgstr "Instagram did not return a 200."
+
+#: wp-instagram-widget.php:228
+msgid "Instagram Image"
+msgstr "Instagram Image"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Instagram Widget"
+msgstr "WP Instagram Widget"
+
+#. Description of the plugin/theme
+msgid "A WordPress widget for showing your latest Instagram photos."
+msgstr "A WordPress widget for showing your latest Instagram photos."
+
+#: wp-instagram-widget.php:127
+msgid "Follow Me!"
+msgstr "Follow Me!"
+
+#: wp-instagram-widget.php:142
+msgid "Large"
+msgstr "Large"
+
+#: wp-instagram-widget.php:56
+msgid "Displays your latest Instagram photos"
+msgstr "Displays your latest Instagram photos"
+
+#: wp-instagram-widget.php:148
+msgid "Current window (_self)"
+msgstr "Current window (_self)"
+
+#: wp-instagram-widget.php:152
+msgid "Link text"
+msgstr "Link text"
+
+#: wp-instagram-widget.php:189 wp-instagram-widget.php:194
+#: wp-instagram-widget.php:198
+msgid "Instagram has returned invalid data."
+msgstr "Instagram has returned invalid data."
+
+#: wp-instagram-widget.php:260
+msgid "Instagram did not return any images."
+msgstr "Instagram did not return any images."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/scottsweb/wp-instagram-widget"
+msgstr "https://github.com/scottsweb/wp-instagram-widget"
+
+#. Author of the plugin/theme
+msgid "Scott Evans"
+msgstr "Scott Evans"
+
+#. Author URI of the plugin/theme
+msgid "http://scott.ee"
+msgstr "http://scott.ee"
+
+#: wp-instagram-widget.php:53 wp-instagram-widget.php:127
+msgid "Instagram"
+msgstr "Instagram"

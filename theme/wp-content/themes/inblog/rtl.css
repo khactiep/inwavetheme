@@ -1,0 +1,66 @@
+/*
+Theme Name: inEvent
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+GENERAL
+*/
+/*@import "assets/css/kien-rtl.css";*/
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+    text-align:right;
+}
+.rtl .wpb_column,.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12{
+    float:right;
+}
+.content-main-right{
+    float:right;
+}
+.content-main-left{
+    float:left;
+}
+th{
+    text-align: right;
+}
+.owl-carousel .owl-item{
+    float:right;
+}
+.pull-right{
+    float:left !important;
+}
+.pull-left{
+    float:right !important;
+}
+/*------------------- RTL Panel setting  -----------------*/
+.rtl .panel-tools{
+    left: auto;
+    right: -240px;
+}
+.rtl .panel-tools .panel-button{
+    right: auto;
+    left:-45px;
+}
+.rtl .panel-tools .panel-button{
+    border: 1px solid #dddddd;
+    border-right: 0;
+    border-radius: 2px 0 0 2px;
+}
+
+.rtl .page-nav .page-numbers {
+    float: right;
+}
+
+/* Header */
+.rtl .iw-top-bar-wrapper .top-bar-right {
+    text-align: left;
+}
+
+
+
+
+

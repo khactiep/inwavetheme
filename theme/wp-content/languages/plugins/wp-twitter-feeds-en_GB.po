@@ -1,0 +1,35 @@
+# Translation of Development (trunk) in English (UK)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-19 09:54:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: controller/twitter_widget.class.php:325 slider.php:142
+#: twitter_widget.class.php:323 views/slider.php:152
+msgid "%1$s%2$s"
+msgstr "%1$s%2$s"
+
+#. Description of the plugin/theme
+msgid "Displays latest tweets from your Twitter account using Twitter oAuth API 1.1."
+msgstr "Displays latest tweets from your Twitter account using Twitter oAuth API 1.1."
+
+#. #-#-#-#-#  tmp-wp-twitter-feeds.pot (WP Twitter Feeds 1.4.8)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-twitter-feeds.pot (WP Twitter Feeds 1.4.8)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.vivacityinfotech.net/"
+msgstr "http://www.vivacityinfotech.net/"
+
+#. Author of the plugin/theme
+msgid "Vivacity Infotech Pvt. Ltd."
+msgstr "Vivacity Infotech Pvt. Ltd."
+
+#. Plugin Name of the plugin/theme
+msgid "WP Twitter Feeds"
+msgstr "WP Twitter Feeds"

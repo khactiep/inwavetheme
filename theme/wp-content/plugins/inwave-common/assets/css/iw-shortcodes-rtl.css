@@ -1,0 +1,464 @@
+/*
+@package inChurch
+@version 1.0.0
+@created May 4, 2015
+@author Inwavethemes
+@email inwavethemes@gmail.com
+@website http://inwavethemes.com
+@support Ticket https://inwave.ticksy.com/
+@copyright Copyright (c) 2015 Inwavethemes. All rights reserved.
+@license http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+*/
+
+.rtl .iw-image-box .btn-box a:first-child{
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.rtl .iw-sermons.accordion .panel-heading a .icon{
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .iw-sermons.accordion .sermon-metas > span{
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+.rtl .iw-sermons.accordion .sermon-metas > span i{
+    float: left;
+}
+.rtl .iw-sermons.accordion .sermon-action{
+    float: right;
+}
+.rtl .iw-sermons.accordion .sermon-share{
+    float: left;
+}
+.rtl .iw-sermons.accordion .sermon-share > a i{
+    float: left;
+}
+.rtl .iw-sermons.accordion .sermon-share:hover .share-icons{
+    text-align: left;
+}
+.rtl .iw-sermons.accordion .sermon-share .share-icons{
+    left: 0;
+    right: auto;
+}
+.rtl .iw-sermons.accordion .sermon-share .share-icons a{
+    margin-right: 0;
+    margin-left: 12px;
+}
+.rtl .iw-sermons.accordion .sermon-share .share-icons a:last-child{
+    margin-left: 0;
+}
+
+.rtl .iw-heading.style3 .heading-icon{
+    float: right;
+}
+.rtl .iw-heading.style3 .heading-main{
+    padding-right: 80px;
+}
+
+.rtl .iw-products.style1 .product-btn i{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .iw-products.style1 .product-btn .like{
+    margin-left: -15px;
+}
+
+.rtl .iw-single-post .date-box{
+    left: auto;
+    right: 25px;
+}
+
+.rtl .iw-events-accordion .date-box{
+    float: right;
+}
+.rtl .iw-events-accordion .panel-title a{
+    float: right;
+    margin-left: 0;
+    margin-right: 15px;
+}
+.rtl .iw-events-accordion .sermon-share{
+    float: left;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .iw-events-accordion .share-icons{
+    right: -200px;
+}
+.rtl .iw-events-accordion .sermon-share > a i{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .iw-events-accordion .event-metas > span{
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .iw-events-accordion .event-metas i{
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.rtl .funfact-info{
+    float: right;
+}
+.rtl .funfact-image{
+    float: left;
+}
+
+.rtl .iw-sermons.slider .sermon-metas span{
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .iw-sermons.slider .sermon-metas span i{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .iw-sermons.slider .owl-controls{
+    left: 0;
+}
+.rtl .iw-sermons.slider .owl-controls .owl-buttons .owl-prev{
+    margin-right: 0;
+    margin-left: 4px;
+}
+.rtl .iw-sermons.slider .sermon-share > a i{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .iw-sermons.slider .sermon-share .share-icons{
+    left: auto;
+    right: 0;
+}
+.rtl .iw-sermons.slider .sermon-share .share-icons a{
+    margin-right: 0;
+    margin-left: 12px;
+}
+
+.rtl .wpcf7{
+    direction: rtl !important;
+}
+
+.rtl .iw-map .map-description{
+    right: auto;
+    left: 0;
+}
+.rtl .iw-map .map-description h3 i{
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.rtl .iw-sermons.grid .sermon-search i{
+    right: auto;
+    left: 15px;
+}
+.rtl .iw-sermons.grid .select2-container--default .select2-selection--single .select2-selection__arrow{
+    right: auto;
+    left: 10px;
+}
+.rtl .iw-item-social-share a.click::before{
+    right: 5px;
+}
+
+.rtl .iw-sermons.grid .sermon-metas{
+    width: 100%;
+}
+.rtl .iw-sermons.grid .sermon-metas, .iw-sermons.grid .sermon-metas > span{
+    float: right;
+}
+.rtl .iw-sermons.grid .sermon-metas, .iw-sermons.grid .sermon-metas > span{
+    margin-right: 0;
+    margin-left: 12px;
+}
+.rtl .iw-sermons.grid .sermon-metas i{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .iw-sermons.grid .sermon-action a{
+    margin-right: 0;
+    margin-left: 7px;
+}
+.rtl .iw-tweet .tweet-icon {
+    border-right: none;
+    border-left: 1px solid #ffebb7;
+    right: 0;
+    left: auto;
+}
+.rtl .iw-tweet .twitter-follow {
+    right: auto;
+    left: 25px;
+}
+.rtl .iw-tweet .tweet-content {
+    margin: 0 135px 0 200px;
+}
+
+/* ----- Home v2 ----- */
+.rtl .iw-events-grid-block .iw-item-info .info-wrap .date {
+    float: right;
+}
+.rtl .iw-events-grid-block .iw-item-info .info-wrap .event-details {
+    float: right;
+    padding: 0 15px 0 0;
+}
+.rtl .info-item.style1 .info-item-content {
+    text-align: left;
+}
+.rtl .info-item.style1 .icon {
+    float: left;
+}
+.rtl .info-item.style1 .info-item-title {
+    padding: 12px 0 12px 20px;
+}
+.rtl .info-item.style1 .info-item-title::before {
+    right: auto;
+    left: 0;
+}
+.rtl .info-item.style1 .info-item-title::after {
+    right: auto;
+    left: 3px;
+}
+.rtl .info-item.style1 .icon::after {
+    left: 0;
+    right: 3px;
+}
+.rtl .info-item.style1 .info-item-desc::after {
+    left: 0;
+    right: auto;
+}
+.rtl .info-item.style1 .info-item-desc {
+    padding: 15px 0 10px 20px;
+}
+.rtl .info-item.style1.style2 .icon {
+    float: right;
+}
+.rtl .info-item.style1.style2 .icon::after {
+    right: auto;
+    left: 3px;
+}
+.rtl .info-item.style1.style2 .info-item-content {
+    text-align: right;
+}
+.rtl .info-item.style1.style2 .info-item-title::before {
+    right: 0;
+    left: auto;
+}
+.rtl .info-item.style1.style2 .info-item-title {
+    padding: 12px 20px 12px 0;
+}
+.rtl .info-item.style1.style2 .info-item-title::after {
+    right: 3px;
+    left: auto;
+}
+.rtl .info-item.style1.style2 .info-item-desc {
+    padding: 15px 20px 10px 0;
+    position: relative;
+}
+.rtl .info-item.style1.style2 .info-item-desc::after {
+    left: auto;
+    right: 0;
+}
+.rtl .info-quote.style2 .quote-image {
+    float: right;
+    margin: 0 0 0 45px;
+}
+.rtl .info-quote.style2 .quote-content {
+    text-align: right;
+}
+.rtl .info-quote.style2 .quote-content .quote-author {
+    padding: 0 10px;
+}
+.rtl .info-quote.style2 .quote-content .quote-author .author {
+    padding-right: 10px;
+}
+.rtl .info-quote.style2 .quote-content .quote-author span.quote {
+    padding: 0;
+}
+.rtl .info-quote .quote-content .quote-author span.quote::before {
+    left: -10px;
+}
+.rtl .info-quote .quote-content .quote-author span.quote::after {
+    right: -10px;
+}
+.rtl .info-quote.style2.insert-border .quote-content {
+    border-right: 1px solid #555555;
+    border-left: none;
+    padding: 0 45px 0 0;
+}
+.rtl .rtl .info-quote.style2.insert-border .quote-image {
+    margin: 0 0 0 55px;
+}
+.rtl .campaing-listing.infunding_style2 .iw-campaign-date {
+    left: auto !important;
+}
+.rtl .infunding_style2 .post_item .item-info .info-right {
+    float: left;
+    padding: 48px 15px 40px 0;
+}
+.rtl .infunding_style2 .post_item .item-info .info-left {
+    left: auto;
+    right: 0;
+    padding: 0 0 0 15px;
+}
+.rtl .campaing-listing.infunding_style2 .item-info.item-info-wrap .campaign-text .campaign-title {
+    padding: 0 25px 10px 0;
+}
+.rtl .campaing-listing .item-info .category-comment {
+    padding: 0 0 0 40px;
+}
+.rtl .campaing-listing .item-info .campaign-text .campaign-des {
+    padding: 0 0 25px 40px;
+}
+.rtl .campaing-listing .item-info .campaing-progress .camp-progress-current .dots {
+    right: auto;
+    left: 0;
+}
+.rtl .campaing-listing.infunding_style2 .item-info-wrap .donate-btn {
+    right: -116px;
+    left: auto;
+}
+.rtl .campaing-listing.infunding_style2 .item-info.item-info-wrap .campaing-progress {
+    padding: 0 67px 0 40px;
+}
+.rtl .campaing-listing .iw-line-1::before {
+    right: 0;
+    left: auto;
+}
+.rtl .campaing-listing .iw-line-1::after {
+    right: 44px;
+    left: 0;
+}
+.rtl .campaing-listing .iw-line-2::before {
+    right: 40px;
+    left: auto;
+}
+.rtl .campaing-listing .iw-line-2::after {
+    right: 40px;
+    left: auto;
+}
+.rtl .campaing-listing .iw-item-social-share {
+    right: 0;
+    left: auto;
+}
+.rtl .campaing-listing .iw-item-social-share a.click {
+    float: right;
+    margin: 0 0 0 10px;
+}
+.rtl .campaing-listing .iw-item-social-share a.click::before {
+    right: 0;
+    left: auto;
+}
+.rtl .iw-heading.style3 .heading-icon {
+    float: right;
+}
+.rtl .iw-heading.style3 .heading-main {
+    padding: 0 80px 0 0;
+}
+.rtl .iw-events-list-content .img-wrap .date {
+    left: auto;
+    right: 20px;
+}
+.rtl .iw-events-list-content .events-info li i {
+    margin: 0 0 0 5px;
+}
+.rtl .iw-posts.style1 .post-item-inner .post-meta li {
+    margin: 0 0 0 15px;
+}
+.rtl .iw-sponsors-list.style1 .iw-sponsors-item:last-child .iw-info-item div::before,
+.rtl .iw-sponsors-list.style1 .iw-sponsors-item:last-child .iw-info-item div::after {
+    display: block;
+}
+.rtl .iw-sponsors-list.style1 .iw-sponsors-item:first-child .iw-info-item div::before,
+.rtl .iw-sponsors-list.style1 .iw-sponsors-item:first-child .iw-info-item div::after {
+    display: none;
+}
+.rtl .iwe-countdown .event-info {
+    float: right;
+    text-align: right;
+}
+.rtl .iwe-countdown .event-info .time-address li {
+    margin: 0 0 0 12px;
+}
+.rtl .iwe-countdown .event-info .time-address li i {
+    margin: 0 0 0 5px;
+}
+.rtl .iwe-countdown .shape_content {
+    float: left;
+    text-align: left;
+}
+.rtl .iwe-share-icon span {
+    margin: 0 0 0 20px;
+    direction: rtl;
+}
+
+.rtl .flexslider {
+    direction:ltr;
+}
+.rtl .iw-testimonial-item.style1 .testi-client-title::before {
+    left: auto;
+    right: 0;
+}
+.rtl .campaing-listing.infunding_style1 .campaign-info {
+    padding: 0 55px 0 0;
+}
+.rtl .info-quote.style3 .quote-author i {
+    margin: 0 0 0 5px;
+}
+/* ----- Events ----- */
+.rtl .infunding-listing-page .title-filter .title-subtitle {
+    float: right;
+}
+.rtl .infunding-listing-page .filter-item {
+    float: left;
+}
+.rtl .infunding-listing-page .select2-container .select2-selection--single .select2-selection__rendered {
+    padding: 0 20px 0 45px;
+}
+.rtl .infunding-listing-page .select2-container--default .select2-selection--single .select2-selection__arrow {
+    left: 15px;
+    right: auto;
+}
+.rtl .infunding-listing-page .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    right: 50%;
+}
+.rtl .infunding-listing-page .filter-form .select2-container--default {
+    margin: 0 10px 5px 0;
+}
+.rtl .infunding-listing-page .iw-search i {
+    right: auto;
+    left: 15px;
+}
+.rtl .iw-events-grid .info-wrap .event-details .time-address li {
+    margin: 0 0 0 25px;
+}
+.rtl .iw-events-grid .info-wrap .event-details .time-address li i {
+    margin: 0 0 0 5px;
+}
+.rtl .iwe-register-share .register {
+    float: right;
+}
+.rtl .iwe-register-share .register button i {
+    margin: 0 0 0 5px;
+}
+.rtl .iwe-register-share .iw-item-social-share {
+    float: left;
+    text-align: left;
+}
+.rtl .iwe-register-share .iw-item-social-share a.click::before,
+.rtl .iwe-register-share .iw-item-social-share.iw-open a.click::before {
+    right: -10px;
+    left: auto;
+}
+/* ----- Event Detail ----- */
+.rtl .iwevent-detail .iwevent-main .sidebar-right h3.title::before {
+    left: auto;
+    right: 0;
+}
+.rtl .iwevent-detail .iwevent-main .sidebar-right .event-info-ct li i {
+    margin: 0 0 0 5px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    position: relative;
+    top: 2px;
+}
